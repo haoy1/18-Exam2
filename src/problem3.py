@@ -78,7 +78,7 @@ class Cloud(object):
         # ---------------------------------------------------------------------
         # DONE: 2. Implement and test this method.
         # ---------------------------------------------------------------------
-        
+
         if water > capacity:
             self.water = capacity
             self.capacity = capacity
